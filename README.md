@@ -1,4 +1,4 @@
-# integrate-a-wordpress-theme-for-a-client
+# Integrate a WordPress theme for a client - Openclassrooms
 Your new client is a real estate agency in the mountains. It still has no website to show off its luxury chalets for sale! Rough life. 🏰🏔
 
 The agency hopes to update its website regularly alone without needing to pester you. You decide to build them a Wordpress site that they can edit what they need to and adjust a theme for their needs, though you'll do most of the work up front.
