@@ -2,8 +2,6 @@
 Step 1: Install WordPress and a theme
 Chalets and Caviar, an agency in Aspen, Colorado, has hired you to create their website. It has around 15 luxury chalets for sale and other chalets available to rent.
 
-They want a "clear, uncluttered, design that exudes luxury." You'll have to offer them this result via a WordPress theme, which will require installation and configuration. You should customize the theme so that the agency feels like their brand is well-represented. Pay attention to detail! 🔎
-
 You should not only choose a theme but also make light modifications to the CSS of the theme that could help deliver the intended result. 
 
 In the project, you'll add:
@@ -22,8 +20,6 @@ A text file explaining which WordPress theme was chosen and why
 URL of the WordPress site hosted online
 
 A CSS file of changes made to the theme
-
-If you are not sure about the best way to host your website online, you can use webhost, as they offer free web hosting for wordpress.org. Make sure to selelct 'blog' and 'beginner' when setting up your account. However, we are not affiliated with webhost in any way and you are free to use the hosting service of your choice!
 
 Step 2: Configure access and documentation
 The agency is satisfied with your initial proposal but asks you how to add, edit, and delete chalets from their listings. You will need to create:
