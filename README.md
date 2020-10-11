@@ -36,4 +36,5 @@ Deliverables
 Files to provide:
 
 A screenshot of the admin accounts you've added to the WordPress site
+
 Wordpress PDF documentation of use to the agency 
