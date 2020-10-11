@@ -1,8 +1,4 @@
 # Integrate a WordPress theme for a client - Openclassrooms
-Your new client is a real estate agency in the mountains. It still has no website to show off its luxury chalets for sale! Rough life. 🏰🏔
-
-The agency hopes to update its website regularly alone without needing to pester you. You decide to build them a Wordpress site that they can edit what they need to and adjust a theme for their needs, though you'll do most of the work up front.
-
 Step 1: Install WordPress and a theme
 Chalets and Caviar, an agency in Aspen, Colorado, has hired you to create their website. It has around 15 luxury chalets for sale and other chalets available to rent.
 
